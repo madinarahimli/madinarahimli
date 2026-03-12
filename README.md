@@ -22,7 +22,7 @@ MySQL • PL/SQL • Excel • VS Code • CLion
 ### A bit about me
 • Computer Engineering @ Politecnico di Torino  
 • SAT 1460 | IELTS 8.0  
-• Languages: English, Azerbaijani, Russian, Turkish, Italian
+• Languages: English, Azerbaijani, Turkish, Russian, Italian
 
 ### Reach me
 LinkedIn: https://www.linkedin.com/in/madina-rahimli  
